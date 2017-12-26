@@ -5,6 +5,8 @@ orange
 grreen
 white
 unicorn
+pink
+blue
 yellow
 black
 the rainbow and the unicorn
